@@ -43,4 +43,4 @@ NOTE: What I provided was just the main body of code, there are other things in 
 ## 🌟 Watch the Showcase GIF! 🌟
 ![alt text](SpectralSwap-ezgif.com-speed-1.gif) <br>
 
-- (unfortunately the FPS on the GIF is low 😞) 
+(unfortunately the FPS on the GIF is low 😞) 
