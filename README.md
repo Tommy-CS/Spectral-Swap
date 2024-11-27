@@ -8,8 +8,8 @@ NOTE: What I provided was just the main body of code, there are other things in 
 
 - **Dual-Body Mechanics**: 
   - Players can switch between the Main Body and the Spectre Body using the **Q** key.
-  - The Spectre Body is represented by a glowing, neon-styled avatar positioned relative to the Main Body.
-  - Accessories and animations are seamlessly managed during body swapping.
+  - The Spectre Body is represented by a glowing, neon-blue avatar positioned relative to the Main Body.
+  - Animations are seamlessly managed during body swapping.
 
 - **Puck-Throwing Mechanic**:
   - Players can equip a puck using the **E** key and throw it using the left mouse button.
