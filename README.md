@@ -40,6 +40,6 @@
 
 ## 🌟 Watch the Showcase GIF! 🌟
 ![alt text](SpectralSwapGIF.gif) <be>
-NOTE: This game was in beta testing when the GIF was created.
 (unfortunately, the FPS on the GIF is low)
+NOTE: This game was in beta testing when the GIF was created.
 
