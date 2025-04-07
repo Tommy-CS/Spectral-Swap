@@ -2,8 +2,6 @@
 
 **Spectral Swap** is a Roblox game where players can dynamically switch between two distinct bodies, referred to as the **Main Body** and the **Spectre Body**, while using a puck-throwing mechanic to move the Spectre body to hard to reach locations.
 
-NOTE: What I provided was just the main body of code, there are other things in Roblox Studio that I have NOT included.
-
 ## Features
 
 - **Dual-Body Mechanics**: 
@@ -41,5 +39,7 @@ NOTE: What I provided was just the main body of code, there are other things in 
 - Leaderboards for competitive gameplay.
 
 ## 🌟 Watch the Showcase GIF! 🌟
-![alt text](SpectralSwapGIF.gif) <br>
-(unfortunately, the FPS on the GIF is low) 
+![alt text](SpectralSwapGIF.gif) <be>
+NOTE: This game was in beta testing when the GIF was created.
+(unfortunately, the FPS on the GIF is low)
+
